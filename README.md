@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Leão 👋
 
-- 💻 Atualmente Estagiário COS
+- 💻 Atualmente Analista de Sistemas Junior I | ObjectScript
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na <a href=http://www.fatecsorocaba.edu.br/>Fatec-Sorocaba<a/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclf10&show_icons=true&theme=dark)
