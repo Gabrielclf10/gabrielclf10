@@ -9,10 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-claudino-leao-feitosa)](https://www.linkedin.com/in/gabriel-claudino-leao-feitosa/)
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielclf10&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielclf10&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielclf10&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielclf10&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 </div><br/>
