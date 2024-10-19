@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Leão 👋
 
-- 💻 Atualmente Analista de Sistemas Junior I | ObjectScript
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na <a href=http://www.fatecsorocaba.edu.br/>Fatec-Sorocaba<a/>
+- 💻 Atualmente Analista de Sistemas Junior I | ObjectScript IRIS
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na <a href=http://www.fatecsorocaba.edu.br/>Fatec-Sorocaba<a/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclf10&show_icons=true&theme=dark)
 
@@ -15,5 +15,5 @@
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   --> 
-  <img align="center" alt="cos" src="https://img.shields.io/badge/ObjectScript-D3D3D3?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="cos" src="https://img.shields.io/badge/ObjectScript-IRIS-009e60?style=for-the-badge&logo=java&logoColor=02ff9c" />
 </div><br/>
