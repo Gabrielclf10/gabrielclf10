@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Gabriel Leão 👋
 
-- 💻 Atualmente sou **Analista de Sistemas Junior I | Desenvolvo com ObjectScript - Plataforma Intersystems IRIS**
+- 💻 Atualmente sou **Analista de Sistemas Junior I  |  Desenvolvo com ObjectScript - Plataforma Intersystems IRIS**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na <a href=http://www.fatecsorocaba.edu.br/>Fatec Sorocaba<a/>
 
 <img align="center" alt="cos" src="https://img.shields.io/badge/ObjectScript-Intersystems IRIS-009e60?style=for-the-badge&logo=java&logoColor=02ff9c" />
